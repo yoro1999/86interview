@@ -1,0 +1,46 @@
+{
+  "order_no": "PO-20251130-00072",
+  "order_date": "30/11/25",
+  "status": "Completed",
+  "company_name": "V22 Dispensary",
+  "customer": {
+    "name": "Jason Hu",
+    "phone": "0481 735 488",
+    "email": "Jason@aerishealth.au",
+    "address": "125 Toorak Road, South Yarra VIC 3141"
+  },
+  "items": [
+    {
+      "sku": "TBAMET10",
+      "quantity": 3,
+      "assigned_tracking": "Track 1"
+    },
+    {
+      "sku": "TBAMET28",
+      "quantity": 1,
+      "assigned_tracking": "Track 1"
+    },
+    {
+      "sku": "TBOPAL28",
+      "quantity": 1,
+      "assigned_tracking": "Track 1"
+    },
+    {
+      "sku": "HARNIG",
+      "quantity": 4,
+      "assigned_tracking": "Track 1"
+    },
+    {
+      "sku": "LELCBD100",
+      "quantity": 6,
+      "assigned_tracking": "Track 1"
+    }
+  ],
+  "tracking": [
+    {
+      "tracking_group": "Track 1",
+      "tracking_number": "2FWZ50008569",
+      "logistics_company": "StarTrack/AusPost"
+    }
+  ]
+}

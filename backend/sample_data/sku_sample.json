@@ -1,0 +1,62 @@
+[
+  {
+    "sku_code": "TBAMET10",
+    "name": "TB AMET 10mg Solution",
+    "description": "TB AMET 10mg Solution 10ml container",
+    "price": 49.00,
+    "weight": 0.2,
+    "width": 5.0,
+    "length": 10.0,
+    "height": 5.0,
+    "volume": 250.0,
+    "image_url": "https://via.placeholder.com/150?text=TBAMET10"
+  },
+  {
+    "sku_code": "TBAMET28",
+    "name": "TB AMET 28mg Solution",
+    "description": "TB AMET 28mg Solution 28ml container",
+    "price": 99.00,
+    "weight": 0.4,
+    "width": 6.0,
+    "length": 12.0,
+    "height": 6.0,
+    "volume": 432.0,
+    "image_url": "https://via.placeholder.com/150?text=TBAMET28"
+  },
+  {
+    "sku_code": "TBOPAL28",
+    "name": "TB OPAL 28mg Extract",
+    "description": "TB OPAL 28mg Extract High Potency",
+    "price": 120.00,
+    "weight": 0.45,
+    "width": 7.0,
+    "length": 14.0,
+    "height": 7.0,
+    "volume": 686.0,
+    "image_url": "https://via.placeholder.com/150?text=TBOPAL28"
+  },
+  {
+    "sku_code": "HARNIG",
+    "name": "HAR NIG Oil",
+    "description": "HAR NIG Balanced Oral Oil 30ml",
+    "price": 85.00,
+    "weight": 0.3,
+    "width": 5.0,
+    "length": 11.0,
+    "height": 5.0,
+    "volume": 275.0,
+    "image_url": "https://via.placeholder.com/150?text=HARNIG"
+  },
+  {
+    "sku_code": "LELCBD100",
+    "name": "LEL CBD 100mg Tincture",
+    "description": "LEL Pure CBD 100mg Tincture 50ml",
+    "price": 150.00,
+    "weight": 0.35,
+    "width": 6.0,
+    "length": 13.0,
+    "height": 6.0,
+    "volume": 468.0,
+    "image_url": "https://via.placeholder.com/150?text=LELCBD100"
+  }
+]

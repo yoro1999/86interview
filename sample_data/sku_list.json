@@ -1,0 +1,103 @@
+{
+  "skus": [
+    {
+      "sku": "TBAMET10",
+      "name": "TB AMET 10mg Solution",
+      "description": "TB AMET 10mg Solution 10ml container",
+      "price": 49.00,
+      "weight": 0.2,
+      "width": 5.0,
+      "length": 10.0,
+      "height": 5.0,
+      "image_url": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='150' height='150'><rect width='150' height='150' fill='%236366f1'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='white' font-size='16'>TBAMET10</text></svg>"
+    },
+    {
+      "sku": "TBAMET28",
+      "name": "TB AMET 28mg Solution",
+      "description": "TB AMET 28mg Solution 28ml container",
+      "price": 99.00,
+      "weight": 0.2,
+      "width": 5.0,
+      "length": 10.0,
+      "height": 5.0,
+      "image_url": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='150' height='150'><rect width='150' height='150' fill='%236366f1'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='white' font-size='16'>TBAMET28</text></svg>"
+    },
+    {
+      "sku": "TBOPAL28",
+      "name": "TB OPAL 28mg Extract",
+      "description": "TB OPAL 28mg Extract High Potency",
+      "price": 120.00,
+      "weight": 0.2,
+      "width": 5.0,
+      "length": 10.0,
+      "height": 5.0,
+      "image_url": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='150' height='150'><rect width='150' height='150' fill='%236366f1'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='white' font-size='16'>TBOPAL28</text></svg>"
+    },
+    {
+      "sku": "AURPUR10",
+      "name": "AUR PUR 10mg Drops",
+      "description": "AUR PUR 10mg Sublingual Drops 30ml",
+      "price": 65.00,
+      "weight": 0.15,
+      "width": 4.0,
+      "length": 8.0,
+      "height": 4.0,
+      "image_url": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='150' height='150'><rect width='150' height='150' fill='%236366f1'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='white' font-size='16'>AURPUR10</text></svg>"
+    },
+    {
+      "sku": "HARNIG",
+      "name": "HAR NIG Oil",
+      "description": "HAR NIG Balanced Oral Oil 30ml",
+      "price": 85.00,
+      "weight": 0.2,
+      "width": 5.0,
+      "length": 10.0,
+      "height": 5.0,
+      "image_url": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='150' height='150'><rect width='150' height='150' fill='%236366f1'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='white' font-size='16'>HARNIG</text></svg>"
+    },
+    {
+      "sku": "LELCBD100",
+      "name": "LEL CBD 100mg Tincture",
+      "description": "LEL Pure CBD 100mg Tincture 50ml",
+      "price": 150.00,
+      "weight": 0.2,
+      "width": 5.0,
+      "length": 10.0,
+      "height": 5.0,
+      "image_url": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='150' height='150'><rect width='150' height='150' fill='%236366f1'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='white' font-size='16'>LELCBD100</text></svg>"
+    },
+    {
+      "sku": "HALGEO15",
+      "name": "HAL GEO 15mg Capsule",
+      "description": "HAL GEO 15mg Softgel Capsules (30s)",
+      "price": 78.00,
+      "weight": 0.1,
+      "width": 6.0,
+      "length": 9.0,
+      "height": 3.0,
+      "image_url": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='150' height='150'><rect width='150' height='150' fill='%236366f1'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='white' font-size='16'>HALGEO15</text></svg>"
+    },
+    {
+      "sku": "MCMW10",
+      "name": "MCM W 10mg Solution",
+      "description": "MCM W 10mg Oral Solution 20ml",
+      "price": 110.00,
+      "weight": 0.25,
+      "width": 6.0,
+      "length": 12.0,
+      "height": 6.0,
+      "image_url": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='150' height='150'><rect width='150' height='150' fill='%236366f1'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='white' font-size='16'>MCMW10</text></svg>"
+    },
+    {
+      "sku": "MCBO30",
+      "name": "MC BO 30mg Spray",
+      "description": "MC BO 30mg Sublingual Spray 15ml",
+      "price": 135.00,
+      "weight": 0.18,
+      "width": 4.5,
+      "length": 8.5,
+      "height": 4.5,
+      "image_url": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='150' height='150'><rect width='150' height='150' fill='%236366f1'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='white' font-size='16'>MCBO30</text></svg>"
+    }
+  ]
+}

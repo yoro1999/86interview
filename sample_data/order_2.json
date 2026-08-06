@@ -1,0 +1,46 @@
+{
+  "order_no": "PO-20251202-00046",
+  "order_date": "03/12/25",
+  "status": "In Transit",
+  "company_name": "Cann Life Dispensary",
+  "customer": {
+    "name": "Bella Dari",
+    "phone": "0411 547 288",
+    "email": "Bella@aerishhealth.au",
+    "address": "381 Smith Street, Fitzroy VIC 3065"
+  },
+  "items": [
+    {
+      "sku": "AURPUR10",
+      "quantity": 10,
+      "assigned_tracking": "Track 2"
+    },
+    {
+      "sku": "HALGEO15",
+      "quantity": 1,
+      "assigned_tracking": "Track 3"
+    },
+    {
+      "sku": "MCMW10",
+      "quantity": 2,
+      "assigned_tracking": "Track 3"
+    },
+    {
+      "sku": "MCBO30",
+      "quantity": 3,
+      "assigned_tracking": "Track 3"
+    }
+  ],
+  "tracking": [
+    {
+      "tracking_group": "Track 2",
+      "tracking_number": "2FWZ50008645",
+      "logistics_company": "StarTrack/AusPost"
+    },
+    {
+      "tracking_group": "Track 3",
+      "tracking_number": "305506914",
+      "logistics_company": "TNT"
+    }
+  ]
+}
